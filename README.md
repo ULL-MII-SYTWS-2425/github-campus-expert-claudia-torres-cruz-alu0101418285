@@ -1,48 +1,85 @@
+# 🏆 GitHub Campus Expert - Informe de Práctica
+
+**Alumna:** Claudia Torres Cruz (alu0101418285)
+
+Este informe documenta las tareas completadas como parte de la práctica utilizando GitHub y demostrando el uso de **Markdown**.
+
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16740117)
-## GitHub Campus Expert
-Esta es una práctica introductoria donde se han realizado las siguientes tareas
 
-### 1. Aceptar la asignación de la práctica
-![img1]
-Se acepta la asignación de la práctica
+---
 
-### 2. Creación del project board automated kanban
-Una vez se crea el repositorio automáticamente
-![img2]
+## 🚀 Tareas Realizadas
 
-Se crea un project board con la configuración indicada
-![img3]
-![img5]
+### 1. ✅ Aceptar la asignación de la práctica
+Se aceptó la asignación de la práctica a través de **GitHub Classroom**.
 
-Y se puede trabajar con el mismo añadiendo los requisitos de la práctica
-![img6]
+![Aceptación de la asignación][img1]
 
-### 3. Solicitar el Student developer pack
-Se solicita el Student developer pack tal y como se ve en la imagen.
-![img7]
+### 2. 🛠️ Creación del Project Board: *Automated Kanban*
+Una vez creado el repositorio, configuré un Project Board de tipo **Kanban**, tal como se pidió.
 
-En este caso, este paso ya se había realizado antes de cursar esta asignatura, por lo que no se dispone de más imágenes del proceso.
+**Pasos:**
+- Se creó el tablero a partir de una plantilla Kanban.
+- Se añadieron los requisitos de la práctica al tablero.
 
-Una vez se tramita la solicitud, ya tendríamos acceso a los planes ofrecidos
-![img8]
+📸 **Imágenes del proceso:**
 
-### 4. Solicitar una GitHub Intership
-En este caso, si acudimos a solicitarla, no hay niguna convocatoria abierta en estos momentos.
+![Creación del Kanban][img2]
 
-![img9]
-![img10]
+### 3. 🎒 Solicitud del Student Developer Pack
+Se solicitó el **Student Developer Pack** tal como lo requieren los pasos de la práctica.
 
-### Finalización de la práctica
-Una vez finalizada la práctica, se actualiza el README.md en el repositorio correspondiente y se suben el link y los archivos indicados a la tarea del campus virtual de la asignatura.
+- ⚠️ **Nota:** Lleva un tiempo procesar la solicitud.
 
+![Solicitud del Student Developer Pack aprobada][img3]
 
-[img1]: /images/intro1.png
-[img2]: /images/board1.png
-[img3]: /images/board2.png
-[img4]: /images/board3.png
-[img5]: /images/board4.png
-[img6]: /images/board5.png
-[img7]: /images/s1.png
-[img8]: /images/s2.png
-[img9]: /images/i1.png
-[img10]: /images/i2.png
+### 4. 💻 Instalación de GitHub CLI
+La instalación la realicé en mi máquina local Windows.
+
+📸 **Imágenes:**
+
+![Instalación correcta del programa][img4]
+
+### 5. 🛠️ Creación del tablero de organización
+En la práctica también se indicaba crear un tablero donde vayan apareciendo todas las prácticas que se irán desarrollando a lo largo del curso.
+
+📸 **Imágenes:**
+
+![Creación del tablero de organización][img5]
+
+---
+
+## 📋 Requisitos Completados
+
+Todos los puntos requeridos han sido completados de acuerdo con la rúbrica:
+
+- [x] **Cuestionario GitHub-Alu rellenado.**
+- [x] **Nombre del equipo correctamente configurado.**
+- [x] **Solicitud del Backpack realizada.**
+- [x] **Kanban Board Project creado correctamente.**
+- [x] **Instalación de GitHub CLI completada.**
+
+## 💡 Uso de Markdown
+
+Este informe incluye los siguientes elementos de **Markdown**:
+
+- **Imágenes:** Se han insertado imágenes relevantes para ilustrar cada tarea.
+- **Enlaces:** Se proporcionaron enlaces útiles y funcionales.
+- **Listas:** Se utilizaron listas ordenadas y desordenadas para organizar las tareas.
+
+---
+
+## 🎯 Finalización de la práctica
+
+Una vez finalizada la práctica:
+
+1. Se actualizó este **README.md** en el repositorio correspondiente.
+2. Se subieron los enlaces y archivos indicados a la plataforma de la asignatura.
+
+---
+
+[img1]: /images/aceptacion.jpg
+[img2]: /images/tablero_kanban.jpg
+[img3]: /images/backpack_aprobado.jpg
+[img4]: /images/githubcli.jpg
+[img5]: /images/tablero_practicas.jpg
